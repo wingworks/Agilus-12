@@ -13,4 +13,4 @@ View the [design specs](https://github.com/wingworks/Agilus-12/blob/master/Agilu
 
 ![Kite 3D preview](https://github.com/wingworks/Agilus-12/blob/master/Agilus-12_right.png)
 
-![Kite 2D plan](https://github.com/wingworks/Agilus-12/blob/master/plan.png)  
+![Kite 2D plan](https://github.com/wingworks/Agilus-12/releases)  
